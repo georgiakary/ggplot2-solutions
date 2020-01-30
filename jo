@@ -1,0 +1,3 @@
+cancer <- g$cancer
+
+overweight <- ifelse(g$bmi >= 25, 1, 0)
